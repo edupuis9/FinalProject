@@ -1,5 +1,5 @@
-title: markdown-project-template
-description: Template for a DH Project Using MarkDown and GitHub Pages
+title: Clara-Bromley-Digital-Humanities
+description: Digital exhibit on using digital tools to interpret travel narratives
 plugins:
   - jekyll-relative-links
 relative_links:
